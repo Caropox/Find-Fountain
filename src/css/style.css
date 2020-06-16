@@ -1,5 +1,7 @@
 body {
     background-color: #D2E8FE;
+    margin: 0;
+    padding: 0;
 }
 
 .image {
@@ -8,6 +10,6 @@ body {
 }
 
 img {
-    width: 65%;
+    width: 60%;
 }
 
