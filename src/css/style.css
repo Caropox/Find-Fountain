@@ -13,7 +13,7 @@ img {
     width: 60%;
 }
 
-.slide-in {
+/* .slide-in {
     animation: slide-in 0.5s ease forwards;
 }
 
@@ -25,4 +25,4 @@ img {
     to{
         transform: translateX(0%);
     }
-}
+} */
