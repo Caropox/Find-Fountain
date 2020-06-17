@@ -13,3 +13,16 @@ img {
     width: 60%;
 }
 
+.slide-in {
+    animation: slide-in 0.5s ease forwards;
+}
+
+@keyframes slide-in{
+    from{
+        transform: translateX(100);
+        visibility: visible;
+    }
+    to{
+        transform: translateX(0%);
+    }
+}
