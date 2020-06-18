@@ -1,7 +1,6 @@
 body {
     background-color: #D2E8FE;
-    margin: 0;
-    padding: 0;
+    margin: 8px;
 }
 
 .image {
@@ -12,4 +11,3 @@ body {
 img {
     width: 60%;
 }
-
