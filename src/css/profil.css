@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.name {
+    padding-bottom: 1em;
+}
+
+.email {
+    padding-bottom: 1em;
+}
+
+.mdp {
+    padding-bottom: 1em;
+}
+
+input[type=button] {
+    background-color: #D2E8FE;
+    border: none;
+    width: 25%;
+    border-radius: .5em;
+    font-size: 1em;
+    padding: 0.3em 0;
+    cursor: pointer;
+}
