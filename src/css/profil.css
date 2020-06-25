@@ -2,30 +2,57 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #D2E8FE;
+}
+
+h1 {
+    text-align: center;
 }
 
 .container {
     text-align: center;
+    margin-top: 30%;
 }
 
 .name {
-    padding-bottom: 1em;
+    padding-bottom: 1.5em;
+}
+
+input[type=text] {
+    border: 1px solid gray;
+    border-radius: .5em;
 }
 
 .email {
-    padding-bottom: 1em;
+    padding-bottom: 1.5em;
+    margin-right: 0.5em;
+}
+
+input[type=email] {
+    border: 1px solid gray;
+    border-radius: .5em;
 }
 
 .mdp {
-    padding-bottom: 1em;
+    padding-bottom: 25%;
+    margin-right: 2.2em;
+}
+
+input[type=password] {
+    border: 1px solid gray;
+    border-radius: .5em;
 }
 
 input[type=button] {
-    background-color: #D2E8FE;
+    background-color: rgb(159, 217, 250);
     border: none;
     width: 25%;
     border-radius: .5em;
     font-size: 1em;
     padding: 0.3em 0;
     cursor: pointer;
+}
+
+input[type=button]:hover {
+    background-color: rgb(54, 154, 212);
 }

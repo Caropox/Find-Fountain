@@ -9,8 +9,11 @@
     <title>Find Fountain</title>
 </head>
 <body>
+
+    <h1>Connexion</h1>
+
     <div class="container">
-        <form action="connexion" method="post">
+        <form action="index.php" method="post">
             <div class="name">
                 <label for="name">Nom :</label>
                 <input type="text" id="name" name="user_name">
@@ -23,9 +26,9 @@
                 <label for="mdp">Password :</label>
                 <input id="mdp" type="password" name="user_motDePasse">
             </div>
-        </form>
 
-        <input type="button" value="Valider">
+            <input type="button" type="submit" name="envoie" value="Valider">
+        </form>
     </div>
 </body>
 </html>
