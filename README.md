@@ -9,5 +9,8 @@ La Deuxième fonctionnalitée c'est "Pointer", ce qui permet de prendre un point
 
 La troisième fonctionnalitée c'est "Contribuer" celle qui permet de pouvoir faire un dons à une association de son choix.
 
+Et j'ai aussi ajouté un formulaire d'inscription mais je n'ai pas les requêtes pour faire le lien avec ma bdd.
+J'ai une bdd appelée findfountain et une table connexion (je te met une image pour que tu l'a vois directement dans le dossier img).
+
 Alors étant donné mes difficultés que je t'ai fais part, je n'ai pas pu avoir le résultat que je voulais et celui qui était attendu bien évidemment.
 Je tiens compte de mes erreurs et de mes difficultés et pour le prochain projet que j'aurais je vais faire de mon mieux pour sortir de meilleurs résultat.
